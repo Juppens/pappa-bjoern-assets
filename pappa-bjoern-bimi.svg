@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <g fill="#8CE1EB">
+    <!-- toes -->
+    <circle cx="150" cy="160" r="55"/>
+    <circle cx="256" cy="120" r="60"/>
+    <circle cx="362" cy="160" r="55"/>
+    <circle cx="210" cy="210" r="50"/>
+    <!-- main pad -->
+    <ellipse cx="256" cy="330" rx="140" ry="120"/>
+  </g>
+</svg>
